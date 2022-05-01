@@ -1,7 +1,7 @@
-project: wgibbs15/bat-fuzz
+project: wgibbs15/libsignal-mayhem
 
 # Target name (should be unique within the project)
-target: -fuzz
+target: libsignal-fuzz
 
 # List of commands used to test the target
 cmds:
